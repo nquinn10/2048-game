@@ -1,3 +1,7 @@
+## Overview:
+Below is an image of the program when run:
+
+
 ## High Level Design:
 This program contains 4 elements:
 - GameBoard - This is a class specifically set up to house all of the
