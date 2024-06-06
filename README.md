@@ -1,6 +1,6 @@
 ## Overview:
 Below is an image of the program when run:
-
+![screenshot](program_screenshot.png)
 
 ## High Level Design:
 This program contains 4 elements:
